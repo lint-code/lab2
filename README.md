@@ -1,4 +1,4 @@
-＃第二个实验
+＃第二次实验
 
 private static final String Instead = MainActivity.class.getSimpleName();
 
